@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_a52q.mk
+    $(LOCAL_DIR)/bliss_a52q.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_a52q-userdebug \
-    lineage_a52q-user \
-    lineage_a52q-eng
+    bliss_a52q-userdebug \
+    bliss_a52q-user \
+    bliss_a52q-eng
