@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_a52q.mk
+    $(LOCAL_DIR)/voltage_a52q.mk
 
 COMMON_LUNCH_CHOICES := \
-    bliss_a52q-userdebug \
-    bliss_a52q-user \
-    bliss_a52q-eng
+    voltage_a52q-userdebug \
+    voltage_a52q-user \
+    voltage_a52q-eng
